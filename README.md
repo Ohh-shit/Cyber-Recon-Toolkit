@@ -1,4 +1,4 @@
-# Cyber-Recon-Toolkit-
+# Cyber-Recon-Toolkit
 # 🛡️ Cyber Recon Toolkit - Windows Only
 
 A powerful Python-based system recon script for Windows. Designed to collect deep system, network, and security information in one go — useful for forensics, audits, and sysadmin recon.
