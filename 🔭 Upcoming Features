@@ -1,0 +1,43 @@
+🔭 Upcoming Features
+
+🔐 Security & Forensics Additions
+Keylogger (Optional Toggle) – Log keystrokes (forensics ya parental control type use).
+
+USB History – Konse USB devices kab lage the (reg query se nikal sakte hain).
+
+Security Logs Check – Failed logins, UAC bypass attempts, etc.
+
+Hidden Processes Detector – Compare visible vs actual running processes.
+
+Scheduled Tasks Listing – Suspicious autoruns ya persistent malware detect karne ke liye.
+
+Detect Suspicious Network Connections – IP reputation check with VirusTotal API (optional online use).
+
+⚙️ System Enhancement Ideas
+CPU Temperature & Fan Speed – Especially useful for laptops or gaming setups.
+
+GPU Usage and Temp – Real-time status for high-performance machines.
+
+Running Processes Overview – Like Task Manager, but filtered output.
+
+Windows License Status – Genuine or not.
+
+List Installed Drivers – Driver issues ya missing detection ke liye.
+
+BIOS Boot Order – BIOS-level info se forensics ko help mil sakta.
+
+🌐 Network Intelligence Ideas
+Local Network Device Scanner – Scan nearby IPs for active devices (arp + ping sweep).
+
+DNS Configuration Check – DNS hijacking detect karne ke liye.
+
+Wi-Fi SSID Sniffer – Visible nearby SSIDs and signal strength.
+
+VPN Detection – Active VPN tunnel hai ya nahi, uska status.
+
+🧰 Utility Features
+Generate Report (HTML / TXT / JSON) – Save all recon in neat format.
+
+Simple GUI with Buttons – Tkinter or PyQt for non-techy users.
+
+Dark Mode CLI Output – Just for swag 😎
